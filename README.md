@@ -1,66 +1,141 @@
-# SAP-ABAP-Portfolio
-SAP ABAP Portfolio
+# SAP ABAP Portfolio
 
-A practical collection of SAP ABAP programs, reports, real-time scenarios, and development concepts.
+A practical SAP ABAP development portfolio containing programs, reports, real-time scenarios, and technical concepts.
 
-📌 About This Repository
+---
 
-This repository contains hands-on SAP ABAP examples covering fundamental, intermediate, and advanced development concepts.
+## 📌 About This Repository
 
-📚 Topics Covered
-ABAP Programming Basics
-Data Types and Variables
-Internal Tables and Work Areas
-Structures and Field Symbols
-Open SQL
-SAP Data Dictionary (DDIC)
-Classical and ALV Reports
-Modularization
-Object-Oriented ABAP
-Enhancements
-BAPI and RFC
-IDoc
-OData
-Smart Forms and Adobe Forms
-Debugging and Performance Optimization
-Real-Time ABAP Scenarios
-📂 Repository Structure
-SAP-ABAP-Portfolio/
-│
-├── 01_ABAP_Basics/
-├── 02_ABAP_Reports/
-├── 03_DDIC/
-├── 04_Modularization/
-├── 05_Database/
-├── 06_ABAP_OOP/
-├── 07_Enhancements/
-├── 08_Interfaces/
-├── 09_Forms/
-├── 10_Real_Time_Scenarios/
-└── 11_Interview_Preparation/
-🛠️ Tools & Technologies
-SAP ABAP
-SAP GUI
-ABAP Workbench
-SAP Data Dictionary
-Open SQL
-ALV
-BAPI
-RFC
-IDoc
-OData
-🎯 Purpose
+This repository contains hands-on SAP ABAP development programs and examples covering basic to advanced ABAP concepts.
 
-The purpose of this repository is to demonstrate practical knowledge and hands-on experience in SAP ABAP development through programs and real-time scenarios.
+The objective is to demonstrate practical understanding of ABAP programming, database operations, reporting, interfaces, enhancements, and real-time development scenarios.
 
-⚠️ Disclaimer
+---
+
+## 📚 Topics Covered
+
+- ABAP Programming Basics
+- Data Types and Variables
+- Operators and Expressions
+- Conditional Statements
+- Loops and Control Statements
+- Internal Tables
+- Work Areas
+- Structures
+- Field Symbols
+- Open SQL
+- Database Operations
+- SAP Data Dictionary (DDIC)
+- Classical Reports
+- Interactive Reports
+- ALV Reports
+- Selection Screens
+- Modularization
+- Subroutines
+- Function Modules
+- Object-Oriented ABAP
+- Classes and Methods
+- Interfaces and Inheritance
+- Enhancements
+- User Exits
+- Customer Exits
+- BAdIs
+- BAPI
+- RFC
+- IDoc
+- OData
+- Smart Forms
+- Adobe Forms
+- Debugging
+- Performance Optimization
+- Real-Time ABAP Scenarios
+
+---
+
+## 🛠️ Tools & Technologies
+
+- SAP ABAP
+- SAP GUI
+- ABAP Workbench
+- SE38
+- SE80
+- SE11
+- SE37
+- SE24
+- SE93
+- ST22
+- ST05
+- Open SQL
+- ALV
+- BAPI
+- RFC
+- IDoc
+- OData
+
+---
+
+## 📂 Repository Structure
+
+- `01_ABAP_Basics`
+- `02_ABAP_Reports`
+- `03_DDIC`
+- `04_Modularization`
+- `05_Database`
+- `06_ABAP_OOP`
+- `07_Enhancements`
+- `08_Interfaces`
+- `09_Forms`
+- `10_Real_Time_Scenarios`
+- `11_Interview_Preparation`
+
+---
+
+## 🎯 Skills Demonstrated
+
+- SAP ABAP Development
+- ABAP Report Development
+- ALV Reporting
+- Database Programming
+- SAP DDIC
+- Internal Table Processing
+- Object-Oriented ABAP
+- SAP Interfaces
+- Enhancement Framework
+- Debugging
+- Performance Optimization
+- Troubleshooting
+- Technical Documentation
+
+---
+
+## 💼 Real-Time Scenarios
+
+This repository includes practical scenarios such as:
+
+- Material Master Reports
+- Sales Order Reports
+- Vendor Reports
+- Employee Reports
+- Database CRUD Operations
+- ALV Reports
+- Data Retrieval using Joins
+- BAPI-Based Processing
+- RFC Communication
+- IDoc Processing
+- OData Services
+
+---
+
+## ⚠️ Disclaimer
 
 All programs and examples in this repository are created for learning, practice, and portfolio purposes.
 
-No confidential or company-specific information is included.
+No confidential, proprietary, customer, or company-specific information is included.
 
-👨‍💻 Author
+---
 
-Gowri
+## 👨‍💻 Author
+
+**Gowri**
 
 SAP BASIS | SAP ABAP
